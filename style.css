@@ -30,3 +30,31 @@ img:hover{
     height:400px
   }
 }
+
+#Navigation {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(198, 41, 41);
+}
+
+li {
+  float:left;
+}
+
+li a {
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover{
+background-color: rgb(39, 39, 74);
+}
+
+.active {
+  background-color: blue;
+}
