@@ -18,9 +18,15 @@ h1 {
   font-size: 350%;
 }
 
-.img-center{
-  height= "100px"
-  width= "120px"
+
+
+
+.img-center > img {
+  height:400px
 }
-
-
+img:hover{
+  transform: scale(2);
+  .img-center > img {
+    height:400px
+  }
+}
