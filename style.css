@@ -21,14 +21,9 @@ h1 {
 
 
 
-.img-center > img {
-  height:400px
-}
+
 img:hover{
-  transform: scale(2);
-  .img-center > img {
-    height:400px
-  }
+height: 400px;
 }
 
 #Navigation {
