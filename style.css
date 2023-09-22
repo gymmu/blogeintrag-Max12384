@@ -26,7 +26,12 @@ main{
   margin-bottom: 50px;
   font-size:120%;
   border: 5px solid black;
+<<<<<<< HEAD
   background-color: rgb(127, 68, 182);
+=======
+  background-color: red;
+  
+>>>>>>> Design_2
 }
 
 
