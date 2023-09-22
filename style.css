@@ -10,34 +10,24 @@ body {
   font-family: sans-serif;
 }
 
-
-
 h1 {
   text-align: center;
   text-decoration: underline;
   font-family: sans-serif;
   font-size: 300%;
-
 }
 
-main{
+main {
   margin-left: 100px;
   margin-right: 100px;
   margin-bottom: 50px;
-  font-size:120%;
+  font-size: 120%;
   border: 5px solid black;
-<<<<<<< HEAD
   background-color: rgb(127, 68, 182);
-=======
-  background-color: red;
-  
->>>>>>> Design_2
 }
 
-
-
-img:hover{
-height: 400px;
+img:hover {
+  height: 400px;
 }
 
 #Navigation {
@@ -49,7 +39,7 @@ height: 400px;
 }
 
 li {
-  float:left;
+  float: left;
 }
 
 li a {
@@ -60,8 +50,8 @@ li a {
   text-decoration: none;
 }
 
-li a:hover{
-background-color: rgb(39, 39, 74);
+li a:hover {
+  background-color: rgb(39, 39, 74);
 }
 
 .active {
